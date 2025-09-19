@@ -1,0 +1,3 @@
+[submodule "modules/DeepResearch"]
+	path = modules/DeepResearch
+	url = ssh://github.com/Alibaba-NLP/DeepResearch.git
