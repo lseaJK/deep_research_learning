@@ -1,3 +1,6 @@
 [submodule "modules/DeepResearch"]
 	path = modules/DeepResearch
 	url = ssh://github.com/Alibaba-NLP/DeepResearch.git
+[submodule "modules/OpenDeepResearch"]
+	path = modules/OpenDeepResearch
+	url = git@github.com:langchain-ai/open_deep_research.git
