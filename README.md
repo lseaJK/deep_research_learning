@@ -1,2 +1,4 @@
 1. Alibaba-NLP/DeepResearch
 动态问题拆解、多工具协同、跨源验证的闭环机制，构建可追溯的研究路径，输出兼具准确性与可解释性的结论。
+
+2. langchain_ai/open_deep_research
